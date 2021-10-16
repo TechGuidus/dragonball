@@ -41,6 +41,9 @@ CREATE TABLE `chapter` (
 --
 
 INSERT INTO `chapter` (`id`, `title`, `chapter_number`, `description`, `emision_date`, `id_season`) VALUES
+(2, 'Freezer Contraataca', 10, 'Goku descubre que Freezer resucito', '1999', 2),
+(3, 'La muerte de Bardock', 20, 'Este Episodio es un Flashback de la muerte del padre de Goku, no aporta mucho', '1999', 3),
+(5, 'La derrota de Vegetta', 35, 'Episodio donde Goku pelea con Vegetta', '1999', 1),
 
 -- --------------------------------------------------------
 
