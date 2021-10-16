@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(100, 40, 65) !important;
+}
+
+.main_content{
+    height:100% !important;
+    padding: 20px !important;
+}
+
+.left-white-margin{
+    border-left: 2px solid blue !important;
+}
+
+.my-card{
+    background-color: rgb(100, 40, 65) !important;
+}
